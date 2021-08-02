@@ -1,0 +1,3 @@
+<h2>Library System</h2>
+
+The Library System project is simply in HTML, CSS, and JavaScript. Taking about the features of this system, the user can make a list of books with their authors, book pages and keep them as records. You just have to type the book information in the text fields and click on the tick button to add the information to the record. This project includes a lot of javascript for making the functioning of the project.<br/>
